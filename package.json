@@ -1,0 +1,20 @@
+{
+  "name": "essaygrader",
+  "version": "1.0.0",
+  "description": "Grades essays following a set of rules layed out in the HarkerDev Discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sathvik Vemulapalli",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^13.0.0",
+    "express": "^4.19.2",
+    "koa": "^2.15.3",
+    "koa-ejs": "^4.3.0",
+    "router": "^1.3.8",
+    "stack": "^0.1.0"
+  }
+}
